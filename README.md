@@ -1,6 +1,6 @@
 # faprotax_db_edition and graphs generation in R
 
-**“FAPROTAX_ed” is an edition of database FAPROTAX_1.2.3, the release of 2020, with additional 21 functions (November 2020) with up to 300 more taxa (from Species to Phylum, dependent on specificity) changing its role from only cultivated data to higher taxonomy levels related to ecological functions assigned by cultivation, genes/function in deposited single genomes and metagenome-assembled genomes, and genes in metabolic pathways**
+**“faprotax_edited_v.nov21” is an edition of database FAPROTAX_1.2.3, the release of 2020, with additional 21 functions with up to 300 additional taxa (from Species to Phylum, dependent on function specificity) changing its role from only cultivated data to higher taxonomic levels related to ecological functions assigned  not only by cultivation, but also genes/function reported, single genomes and metagenome-assembled genomes deposited.**
 
 To be used with the FAPROTAX tool (Louca et al., 2016). For more details about the tool and their database releases visit http://www.zoology.ubc.ca/louca/FAPROTAX.
 
